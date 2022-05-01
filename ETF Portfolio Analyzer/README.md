@@ -65,19 +65,19 @@ Please reference the following screenshots for guidance with any changes within 
 
 SQL Connection                        |  Demo Connection
 :------------------------------------:|:------------------------:
-![Alt text](url)                      |  ![Alt text](url)
+![Alt text](https://github.com/antonmaliksi/FinTechModule7Challenge/blob/main/ETF%20Portfolio%20Analyzer/Readme%20Resources/SQL_Connection.PNG)                      |  ![Alt text](https://github.com/antonmaliksi/FinTechModule7Challenge/blob/main/ETF%20Portfolio%20Analyzer/Readme%20Resources/Demo_Connection.PNG)
 
 Query                                 |  Demo Query
 :------------------------------------:|:------------------------:
-![Alt text](url)                      |  ![Alt text](url)
+![Alt text](https://github.com/antonmaliksi/FinTechModule7Challenge/blob/main/ETF%20Portfolio%20Analyzer/Readme%20Resources/Query.PNG)                      |  ![Alt text](https://github.com/antonmaliksi/FinTechModule7Challenge/blob/main/ETF%20Portfolio%20Analyzer/Readme%20Resources/Demo_Query.PNG)
 
 Voila 1                               |  Voila 2
 :------------------------------------:|:------------------------:
-![Alt text](url)                      |  ![Alt text](url)
+![Alt text](https://github.com/antonmaliksi/FinTechModule7Challenge/blob/main/ETF%20Portfolio%20Analyzer/Readme%20Resources/Voila_1.PNG)                      |  ![Alt text](https://github.com/antonmaliksi/FinTechModule7Challenge/blob/main/ETF%20Portfolio%20Analyzer/Readme%20Resources/Voila_2.PNG)
 
 Voila 3                               |  Voila 4
 :------------------------------------:|:------------------------:
-![Alt text](url)                      |  ![Alt text](url)
+![Alt text](https://github.com/antonmaliksi/FinTechModule7Challenge/blob/main/ETF%20Portfolio%20Analyzer/Readme%20Resources/Voila_3.PNG)                      |  ![Alt text](https://github.com/antonmaliksi/FinTechModule7Challenge/blob/main/ETF%20Portfolio%20Analyzer/Readme%20Resources/Voila_4.PNG)
 
 ---
 
